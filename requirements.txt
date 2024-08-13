@@ -1,0 +1,9 @@
+pennylane
+qiskit
+torch
+torchvision
+torchaudio
+scikit-learn
+opencv-python
+matplotlib
+pandas
