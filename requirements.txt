@@ -1,9 +1,12 @@
 pennylane
-qiskit
 torch
 torchvision
 torchaudio
 scikit-learn
-opencv-python
-matplotlib
 pandas
+matplotlib
+scipy
+seaborn
+plotly
+pyyaml
+ray
